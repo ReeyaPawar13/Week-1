@@ -1,2 +1,2 @@
 # Week-1
-Applying various operations in Powe BI
+Applying various operations in Power BI
